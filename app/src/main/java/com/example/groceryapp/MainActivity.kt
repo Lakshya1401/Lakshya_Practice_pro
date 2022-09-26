@@ -21,8 +21,8 @@ class MainActivity : ComponentActivity() {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
-                ) {
-                    Greeting("Lakshya")
+                ) {//dekh yeh commit ka option ara hai na uppr  jb bhi koi changes krega to code push krne ke liye aise steps yeh dekhio
+                    Greeting("Lakshya !!")
                 }
             }
         }
